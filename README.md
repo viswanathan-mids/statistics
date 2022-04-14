@@ -1,2 +1,2 @@
 # statistics
-This repo consists of the lab reports submitted for hypothesis testing
+This repo consists of the work done for hypothesis testing and causal analysis and the correspoonding rmd files.
